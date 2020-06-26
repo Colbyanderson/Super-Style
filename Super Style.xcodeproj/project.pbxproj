@@ -66,8 +66,8 @@
 		0C438BFD24A2898900C6FA4F /* Super Style */ = {
 			isa = PBXGroup;
 			children = (
-				0C438BFE24A2898900C6FA4F /* AppDelegate.swift */,
 				0C438C1724A55CB800C6FA4F /* Main.storyboard */,
+				0C438BFE24A2898900C6FA4F /* AppDelegate.swift */,
 				0C438C0024A2898900C6FA4F /* SceneDelegate.swift */,
 				48A9509424A3D40C0081FD52 /* EventViewController.swift */,
 				48A9509624A3D44E0081FD52 /* WeatherViewController.swift */,
